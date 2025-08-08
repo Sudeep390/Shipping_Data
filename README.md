@@ -6,3 +6,4 @@ One shipping mode accounts for 58% of orders — a logistics focus point.
 Thursday & Friday are peak sales days, ideal for targeted promotions.
 
 This project helped me improve data cleaning, KPI creation, and storytelling through visuals — turning raw data into clear business insights.
+
